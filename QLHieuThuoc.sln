@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QLHieuThuoc", "QLHieuThuoc\QLHieuThuoc.csproj", "{B334D3ED-7495-4B05-A936-3F6AEA368538}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B334D3ED-7495-4B05-A936-3F6AEA368538}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B334D3ED-7495-4B05-A936-3F6AEA368538}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B334D3ED-7495-4B05-A936-3F6AEA368538}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B334D3ED-7495-4B05-A936-3F6AEA368538}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F49AF444-DD20-4C02-A32B-3F9FC8C2F972}
+	EndGlobalSection
+EndGlobal
